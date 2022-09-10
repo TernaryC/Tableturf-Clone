@@ -1,2 +1,3 @@
 # Tableturf-Clone
-A clone of Splatoon 3's Tableturf game
+A javascript clone of Splatoon 3's Tableturf game.
+No plans for server implementation as of yet.
