@@ -1,0 +1,412 @@
+{
+    "cards": [
+        {   
+            "id": 0,
+            "name": "",
+            "score": 0,
+            "specil": 0,
+            "rarity": 0,
+            "pattern": ""
+        },
+        {
+            "id": 1,
+            "name": "Hero Shot",
+            "score": 12,
+            "specil": 5,
+            "rarity": 2,
+            "pattern": "5,3X1,-1,1"
+        },
+        {
+            "id": 2,
+            "name": "Sploosh-o-matic",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "1X-1,4,-1-1"
+        },
+        {
+            "id": 3,
+            "name": "Splattershot Jr.",
+            "score": 4,
+            "specil": 2,
+            "rarity": 0,
+            "pattern": "1X1,1"
+        },
+        {
+            "id": 4,
+            "name": "Splash-o-matic",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "--1,3X,-2"
+        },
+        {
+            "id": 5,
+            "name": "Aerospray MG",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "1X,4,-1"
+        },
+        {
+            "id": 6,
+            "name": "Splattershot",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "2X,4,1"
+        },
+        {
+            "id": 7,
+            "name": ".52 Gal",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "3X,-2,1"
+        },
+        {
+            "id": 8,
+            "name": "N-ZAP '85",
+            "score": 5,
+            "specil": 2,
+            "rarity": 0,
+            "pattern": "2X1,1"
+        },
+        {
+            "id": 9,
+            "name": "Splattershot Pro",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "---1X,6,--1"
+        },
+        {
+            "id": 10,
+            "name": ".96 Gal",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "5X,-3,1"
+        },
+        {
+            "id": 11,
+            "name": "Jet Squelcher",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "1X4,1,3"
+        },
+        {
+            "id": 12,
+            "name": "Luna Blaster",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "---X,3,-2,-1"
+        },
+        {
+            "id": 13,
+            "name": "Blaster",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "1--1X,-4,-1"
+        },
+        {
+            "id": 14,
+            "name": "Range Blaster",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "1---1X,-5,-1"
+        },
+        {
+            "id": 15,
+            "name": "Clash Blaster",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "-3,3X,1"
+        },
+        {
+            "id": 16,
+            "name": "Rapid Blaster",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "2X1,3,1"
+        },
+        {
+            "id": 17,
+            "name": "Rapid Blaster Pro",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "5,2X,1"
+        },
+        {
+            "id": 18,
+            "name": "L-3 Nozzlenose",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "1X2,2,1"
+        },
+        {
+            "id": 19,
+            "name": "H-3 Nozzlenose",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "3X1,2,1"
+        },
+        {
+            "id": 20,
+            "name": "Squeezer",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "---X,--1,2,2,1"
+        },
+        {
+            "id": 21,
+            "name": "Carbon Roller",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "4,-1X,--1"
+        },
+        {
+            "id": 22,
+            "name": "Splat Roller",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "2X2,--3,--1"
+        },
+        {
+            "id": 23,
+            "name": "Dynamo Roller",
+            "score": 13,
+            "specil": 5,
+            "rarity": 0,
+            "pattern": "7,---X3,---1,---1"
+        },
+        {
+            "id": 24,
+            "name": "Flingza Roller",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "2X2,--2,--2,--1"
+        },
+        {
+            "id": 25,
+            "name": "Inkbrush",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "---X1,---2,--1,-1,1"
+        },
+        {
+            "id": 26,
+            "name": "Octobrush",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "----1,---X2,---2,--1,-1,1"
+        },
+        {
+            "id": 27,
+            "name": "Classic Squiffer",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "7,1X"
+        },
+        {
+            "id": 28,
+            "name": "Splat Charger",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "7,--X"
+        },
+        {
+            "id": 29,
+            "name": "Splatterscope",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "--1X,7,--1"
+        },
+        {
+            "id": 30,
+            "name": "E-liter 4K",
+            "score": 11,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "7,3--X"
+        },
+        {
+            "id": 31,
+            "name": "E-liter 4K Scope",
+            "score": 13,
+            "specil": 5,
+            "rarity": 0,
+            "pattern": "---1X,7,3--1"
+        },
+        {
+            "id": 32,
+            "name": "Bamboozler 14 Mk I",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "1---1,1X3"
+        },
+        {
+            "id": 33,
+            "name": "Goo Tuber",
+            "score": 11,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "6,2X-1,---1"
+        },
+        {
+            "id": 34,
+            "name": "Slosher",
+            "score": 6,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "1,-X1,3"
+        },
+        {
+            "id": 35,
+            "name": "Tri-Slosher",
+            "score": 5,
+            "specil": 2,
+            "rarity": 0,
+            "pattern": "1,1X,2"
+        },
+        {
+            "id": 36,
+            "name": "Sloshing Machine",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "1X1,-2,-2"
+        },
+        {
+            "id": 37,
+            "name": "Bloblobber",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "1,X4,4"
+        },
+        {
+            "id": 38,
+            "name": "Explosher",
+            "score": 11,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "1--1,4,4X"
+        },
+        {
+            "id": 39,
+            "name": "Mini Splatling",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "4X,2"
+        },
+        {
+            "id": 40,
+            "name": "Heavy Splatling",
+            "score": 12,
+            "specil": 5,
+            "rarity": 0,
+            "pattern": "2,2,2,-2,--1X,---2"
+        },
+        {
+            "id": 41,
+            "name": "Hydra Splatling",
+            "score": 13,
+            "specil": 5,
+            "rarity": 0,
+            "pattern": "2,2,5X,-3"
+        },
+        {
+            "id": 42,
+            "name": "Ballpoint Splatling",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "-1,4,3X1"
+        },
+        {
+            "id": 43,
+            "name": "Nautilus 47",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "2,2,4X"
+        },
+        {
+            "id": 44,
+            "name": "Dapple Dualies",
+            "score": 7,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "3,1-X,-2"
+        },
+        {
+            "id": 45,
+            "name": "Splat Dualies",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "-4,-1X,2"
+        },
+        {
+            "id": 46,
+            "name": "Glooga Dualies",
+            "score": 9,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "--1,3X,-2,-2"
+        },
+        {
+            "id": 47,
+            "name": "Dualie Squelchers",
+            "score": 10,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "2,5,X,2"
+        },
+        {
+            "id": 48,
+            "name": "Dark Tetra Dualies",
+            "score": 8,
+            "specil": 3,
+            "rarity": 0,
+            "pattern": "-1X1,1-2,-2"
+        },
+        {
+            "id": 49,
+            "name": "Splat Brella",
+            "score": 11,
+            "specil": 4,
+            "rarity": 0,
+            "pattern": "--1,--2,-1X2,1-2,--1"
+        },
+        {
+            "id": 50,
+            "name": "Tenta Brella",
+            "score": 12,
+            "specil": 5,
+            "rarity": 0,
+            "pattern": "-2,--2,-1X1,1-2,-2"
+        }
+    ]
+}
